@@ -29,15 +29,15 @@
 
 .header-dark .navbar .navbar-brand {
   font-weight:bold;
-  color:inherit;
+  color:Black;
 }
 
 .header-dark .navbar .navbar-brand:hover {
-  color:#f0f0f0;
+  color:Orange;
 }
 
 .header-dark .navbar .navbar-collapse span {
-  margin-top:5px;
+  margin-top:50%;
 }
 
 .header-dark .navbar .navbar-collapse span .login {
