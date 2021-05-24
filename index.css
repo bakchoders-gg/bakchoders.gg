@@ -29,11 +29,11 @@
 
 .header-dark .navbar .navbar-brand {
   font-weight:bold;
-  color:Black;
+  color:#000000;
 }
 
 .header-dark .navbar .navbar-brand:hover {
-  color:Orange;
+  color:#FFA500;
 }
 
 .header-dark .navbar .navbar-collapse span {
